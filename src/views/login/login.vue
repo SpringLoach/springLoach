@@ -16,7 +16,7 @@
       <a href="javascript:;" @click="toCreate">创造乐园</a>
       <span class="col-line"></span>
       <img src="@/assets/img/bg/music-entry.svg" @click="toMusic" />
-      <span class="copy-right">2021 ©Springloach</span>
+      <span class="copy-right">2023 ©Springloach</span>
     </footer>
   </div>
 </template>
